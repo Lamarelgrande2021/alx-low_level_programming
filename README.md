@@ -1,1 +1,1 @@
-Starting to code with c today
+How to compile on c
