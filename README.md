@@ -1,1 +1,1 @@
-How to compile on c
+How to assemble on c
