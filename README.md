@@ -1,1 +1,1 @@
-How to assemble on c
+How to name on c
